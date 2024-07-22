@@ -14,24 +14,24 @@ Welcome to my portfolio repository! This project showcases my skills, projects, 
 
 ## About Me
 
-I am Chandrakanth Mane, a passionate Frontend Developer with over 3+ years of experience in creating dynamic and responsive web applications using Angular. I am committed to delivering high-quality code and excellent user experiences.
+I am Chandrakanth Mane, a passionate Frontend Developer with over 3+ years of experience in creating dynamic and responsive web applications using Angular & React, responsive in web and mobile screens. I am committed to delivering high-quality code and excellent user experiences.
 
 ## Skills
 
 - **Frontend Development**: Angular 17, React
-- **Programming Languages**: JavaScript, TypeScript, HTML, CSS
-- **Tools & Platforms**: Git, npm, Visual Studio Code, WebStorm
+- **Programming Languages**: JavaScript, TypeScript, HTML, CSS, jQuery, Node.js
+- **Tools & Platforms**: Git, npm, Visual Studio Code, WebStorm, Chrome DevTools
 - **Responsive Design**: Bootstrap, CSS Flexbox, CSS Grid
 
 ## Projects
 
-### [Project 1: Login and Registration Page](link-to-project)
-- **Description**: A React project that includes a login and registration page with a logo, paragraph, and toggle feature between login and registration forms.
-- **Features**: Header and Tiles components displayed after login, toggle between 'Employee' and 'Finance' sections in the Header component.
+### [Project 1: Advice Generator](https://chandrakanthmane.github.io/Advice_Generator_App/)
+- **Description**: Generates unique Advice after every user click. 
+- **Features**: Used API to fetch advice.
 
-### [Project 2: Project Name](link-to-project)
-- **Description**: Brief description of the project.
-- **Technologies Used**: Angular 17, TypeScript, CSS
+### [Project 2: Task Tracker](https://github.com/chandrakanthmane/Angular-Task_Tracker)
+- **Description**: Created ToDo app to track user tasks with remainder feature.
+- **Technologies Used**: Angular 17, TypeScript, CSS.
 
 ## Certifications
 
@@ -39,6 +39,10 @@ I am Chandrakanth Mane, a passionate Frontend Developer with over 3+ years of ex
 - **Responsive Web Design** - FreeCodeCamp
 
 ## Experience
+
+### Freelancer
+- **Role**: Frontend Developer
+- **Duration**: August 2023 - Present
 
 ### Tata Consultancy Services
 - **Role**: Frontend Developer
@@ -53,9 +57,9 @@ I am Chandrakanth Mane, a passionate Frontend Developer with over 3+ years of ex
 
 ## Contact
 
-- **Email**: [your-email@example.com](mailto:chandrakanthmane84@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/chandrakanthmane)
-- **GitHub**: [Your GitHub Profile](https://github.com/chandrakanthmane)
+- **Email**: [Chandrakanthmane84@gmail.com](mailto:chandrakanthmane84@example.com)
+- **LinkedIn**: [LinkedIn/chandrakanthmane](https://www.linkedin.com/in/chandrakanthmane)
+- **GitHub**: [Github/chandrakanthmane](https://github.com/chandrakanthmane)
 
 Feel free to explore my projects and reach out if you have any questions or opportunities to discuss.
 
