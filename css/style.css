@@ -94,7 +94,8 @@ ol,
 ul,
 dl {
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 1rem; 
+  padding-left: 20px;}
 
 ol ol,
 ul ul,
@@ -9083,7 +9084,7 @@ textarea.form-control {
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
-      padding: 6em 0; } }
+      padding: 6em 0.5em; } }
 
 .ftco-no-pt {
   padding-top: 0 !important; }
